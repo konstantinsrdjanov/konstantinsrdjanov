@@ -1,0 +1,9 @@
+.idea/
+dist/
+.DS_Store
+node_modules/
+npm-debug.log
+.editorconfig
+.idea/
+*.iml
+../.DS_Store
